@@ -1,4 +1,6 @@
 # 4-Layer Avionics Flight Computer & Telemetry Node
+[![YouTube Watch Demo](https://img.shields.io/badge/YouTube-Watch%20Video%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/cIcnoNsfvB8)
+
 **Screening Task 7 Submission | FOSSEE eSim Semester Long Internship (Autumn 2026)**
 
 - **Author:** Aayushman Das
